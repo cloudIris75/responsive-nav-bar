@@ -1,6 +1,6 @@
 # Responsive Navigation Bar
-|<img src="assets/images/index-wide.png" width="100%" height="100%" alt="index-wide" />|<img src="assets/images/index.png" width="100%" height="100%" alt="index" />|
-|-|-|
+|<img src="assets/images/index-wide.png" alt="index wide" />|<img src="assets/images/index.png" alt="index" />|
+|:-:|:-:|
 
 ## About
 간단한 JavaScript 이벤트 핸들러를 이용한 반응형 헤더(내비게이션 바).
