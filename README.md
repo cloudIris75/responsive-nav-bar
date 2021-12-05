@@ -13,5 +13,5 @@ HTML, CSS, JavaScript
 
 ## Roadmap
 - [X] Write HTML of nav bar
-- [X] Add CSS styling
+- [X] Apply CSS style
 - [X] Add an event handler with JS
