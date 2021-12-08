@@ -12,6 +12,6 @@ HTML, CSS, Vanilla JavaScript
 2021.8.20. ~ 2021.8.20.
 
 ## Roadmap
-- [X] Write HTML of nav bar
-- [X] Apply CSS style
-- [X] Add an event handler with JS
+- [X] HTML 작성
+- [X] CSS 스타일 적용
+- [X] JS 이벤트 핸들러 추가
